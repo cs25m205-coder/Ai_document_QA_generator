@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.pytest_cache/
+.streamlit/
+.DS_Store
+
+data/index/*
+data/uploads/*
+!data/index/.gitkeep
+!data/uploads/.gitkeep
+.cache/
+huggingface/
